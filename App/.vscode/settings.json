@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin/Release/net6.0/publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/3a1cf685-3342-4c07-a8f7-07bb6008e146/resourceGroups/rg-user-service-eastus2/providers/Microsoft.Web/sites/apps-user-service-eastus2"
+}
